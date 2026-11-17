@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../semaine-1"
+		},
+		{
+			"path": "../resturant tifawin belfaa"
+		},
+		{
+			"path": "../projet cite wibe"
+		},
+		{
+			"path": "../exirsis de midia"
+		},
+		{
+			"path": "../px et rem"
+		},
+		{
+			"path": "../ex-midia"
+		},
+		{
+			"path": "../noveau proojet"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "noveau proojet"
+	}
+}
